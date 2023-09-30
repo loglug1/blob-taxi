@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "play-blob-taxi.data.unityweb",
+"asmCodeUrl": "play-blob-taxi.asm.code.unityweb",
+"asmMemoryUrl": "play-blob-taxi.asm.memory.unityweb",
+"asmFrameworkUrl": "play-blob-taxi.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
